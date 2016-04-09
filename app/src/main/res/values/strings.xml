@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudentInfo</string>
+    <string name="student_list_label">Students</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="student_name">{first_name} {last_name}</string>
+    <string name="roll_number"> Roll No : {roll_number}</string>
+    <string name="subject_name">Subject Name : {subject_name}</string>
+    <string name="subject_marks">Marks : {marks}</string>
+    <string name="student_marks">Result</string>
+    <string name="action_search">Search</string>
+    <string name="no_internet_msg">No internet connection. Try again when internet comes back</string>
+    <string name="empty_data_msg">No data available.\n Click refresh to retry</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="loading_info_msg">Loading student information&#8230;</string>
+</resources>
